@@ -1,2 +1,2 @@
-# Java-Course-Projects
-Projects made from the java course.
+# Java challenges
+Challenges done with Java
